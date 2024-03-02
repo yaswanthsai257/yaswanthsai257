@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/3b/1d/86/3b1d86760d10d077f5ed7d8e4e0969aa.gif" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/originals/e3/c7/47/e3c747b1bf7b80b066f62d629209e694.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -70,6 +70,15 @@
 
 
 ## Connect with me  
+<a href="https://github.com/https://github.com/yaswanthsai257?tab=repositories" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/https://x.com/yashuuu21?t=TFi_3taSt2o_BYG81VPkgw&s=09" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yaswanth-sai-886213219" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
   
 
 <br/>  
